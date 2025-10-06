@@ -17,3 +17,7 @@ It was created to practice programming fundamentals.
 ## Notes
 - This project was built for learning.
 - Feel free to fork or modify it.
+
+## 📸 Preview
+![Game Screenshot](screenshots/winner-screen.png)
+![Game Screenshot](screenshots/end-game-screen.png)
