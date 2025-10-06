@@ -19,5 +19,9 @@ It was created to practice programming fundamentals.
 - Feel free to fork or modify it.
 
 ## 📸 Preview
-![Game Screenshot](screenshots/winner-screen.png)
-![Game Screenshot](screenshots/end-game-screen.png)
+
+<p align="center">
+  <img src="screenshots/winner-screen.png" width="250">
+  <img src="screenshots/end-game-screen.png" width="250">
+  <img src="screenshots/draw-round-example.png" width="250">
+</p>
